@@ -1,0 +1,15 @@
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\bin\Debug\Video_Player.exe.config
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\bin\Debug\Video_Player.exe
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\bin\Debug\Video_Player.pdb
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.csproj.AssemblyReference.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.csproj.ResolveComReference.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.Form1.resources
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.Properties.Resources.resources
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.csproj.GenerateResource.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.csproj.CoreCompileInputs.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.exe
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Video_Player\Video_Player\obj\Debug\Video_Player.pdb
